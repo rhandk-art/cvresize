@@ -1,6 +1,6 @@
 streamlit 
-openCV 
+cv2
 numpy 
 Pillow
 opengl
-io
+
