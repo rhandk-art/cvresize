@@ -1,7 +1,4 @@
 streamlit
-opencv-python
+opencv-contrib-python
 numpy
 pillow
-opengl
-
-
