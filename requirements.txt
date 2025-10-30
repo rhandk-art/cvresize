@@ -2,3 +2,4 @@ streamlit
 openCV 
 numpy 
 Pillow
+opengl
